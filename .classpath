@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Jdk8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Databases"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry exported="true" kind="lib" path="G:/Eclipse/eclipse-jee-photon-R-win32-x86_64/Workspace/SIS2/Databases/ojdbc5.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/Eclipse/eclipse-jee-photon-R-win32-x86_64/Workspace/SIS2/Databases/ojdbc6.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/Eclipse/eclipse-jee-photon-R-win32-x86_64/Workspace/SIS2/Databases/ojdbc6_g.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
